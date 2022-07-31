@@ -1,0 +1,2 @@
+# Exploring-Ensembles-for-Object-Recognition
+Our group project will explore the role of ensembles of networks in object recognition.  By training multiple networks on the same dataset with different hyperparameters, architectures, and random weight initializations, we will determine if their ensembled performance is better than any individual network alone.  The project will investigate different ensemble schemes and report our findings.
